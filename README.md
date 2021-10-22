@@ -40,7 +40,7 @@ Contributions welcome! See [Contributing](CONTRIBUTING.md).
 
 ## Author
 
-** Didier Roque (Prospect on [Discord](https://discord.com))**
+**Didier Roque Ginebra**
 
 ## License
 
